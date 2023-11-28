@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zheng Xuanyang - Personal Webpage</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+
+        header {
+            text-align: center;
+            padding: 50px;
+            background-color: #3498db;
+            color: #fff;
+        }
+
+        h1, h2 {
+            color: #3498db;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #3498db;
+            color: #fff;
+        }
+
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Zheng Xuanyang</h1>
+        <p>采购工程师 | 热爱工作 | 喜欢摸鱼 | 比较屌毛</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>你好！我是郑选炀，一名采购工程师，热爱我的工作。除了专注工作，我喜欢摸鱼，也比较屌毛。</p>
+    </section>
+
+    <section>
+        <h2>Contact Information</h2>
+        <p>微信: <a href="weixin://zhengxuanyang897">zhengxuanyang897</a></p>
+    </section>
+
+    <footer>
+        <p>Contact me at <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+    </footer>
+
+</body>
+</html>
